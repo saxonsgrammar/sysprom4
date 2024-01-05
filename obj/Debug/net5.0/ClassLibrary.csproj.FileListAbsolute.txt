@@ -1,0 +1,11 @@
+C:\Users\Mcintosh\Downloads\СисПром\сп4\ClassLibrary\bin\Debug\net5.0\ClassLibrary.deps.json
+C:\Users\Mcintosh\Downloads\СисПром\сп4\ClassLibrary\bin\Debug\net5.0\ClassLibrary.dll
+C:\Users\Mcintosh\Downloads\СисПром\сп4\ClassLibrary\bin\Debug\net5.0\ref\ClassLibrary.dll
+C:\Users\Mcintosh\Downloads\СисПром\сп4\ClassLibrary\bin\Debug\net5.0\ClassLibrary.pdb
+C:\Users\Mcintosh\Downloads\СисПром\сп4\ClassLibrary\obj\Debug\net5.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mcintosh\Downloads\СисПром\сп4\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Mcintosh\Downloads\СисПром\сп4\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Mcintosh\Downloads\СисПром\сп4\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Mcintosh\Downloads\СисПром\сп4\ClassLibrary\obj\Debug\net5.0\ClassLibrary.dll
+C:\Users\Mcintosh\Downloads\СисПром\сп4\ClassLibrary\obj\Debug\net5.0\ref\ClassLibrary.dll
+C:\Users\Mcintosh\Downloads\СисПром\сп4\ClassLibrary\obj\Debug\net5.0\ClassLibrary.pdb
